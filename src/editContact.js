@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useDispatch } from "react-redux";
-import { addContact, editContact } from "./store/actions";
+import { editContact } from "./store/actions";
 import Grid from '@mui/material/Grid';
 import { Paper } from "@mui/material";
 import TextField from '@mui/material/TextField';

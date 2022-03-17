@@ -7,10 +7,8 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Button from '@mui/material/Button';
 import Paper from '@mui/material/Paper';
-import Typography from '@mui/material/Typography';
 import { deleteContact } from "./store/actions";
 import { useDispatch } from "react-redux";
-import AddContact from "./addContact";
 import Box from '@mui/material/Box';
 import Avatar from '@mui/material/Avatar';
 
