@@ -46,12 +46,6 @@ const EditContact = (props) => {
         setPhoto(null);
     };
 
-
-
-
-
-
-
     const handleChangeDropdown = (e) => {
         setPhoneType(e.target.value);
     };
